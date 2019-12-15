@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Log System</string>
+    <string name="action_send">Send</string>
+    <string name="action_save">Save</string>
+    <string name="action_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="category">
+        <item>Civil</item>
+        <item>Government</item>
+        <item>Military</item>
+    </string-array>
+    <string name="email_list">adhikari.snj@gmail.com , rupesh.kc2012@gmail.com , bibekgautam15@gmail.com </string>
+    <!--<string name="email_list">adhikari.snj@gmail.com , culblank.minded@gmail.com </string>-->
+</resources>
